@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Shoes",
+            "quantity": 10,
+            "price": 125.50
+        },
+        {
+            "id": 2,
+            "name": "Sweatshirt",
+            "quantity": 10,
+            "price": 39.99
+        },
+        {
+            "id": 3,
+            "name": "Jeans",
+            "quantity": 0,
+            "price": 79.99
+        },
+        {
+            "id": 4,
+            "name": "Gloves",
+            "quantity": 5,
+            "price": 26.50
+        }
+    ]
+}
